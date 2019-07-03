@@ -18,6 +18,7 @@ public class Tester {
         System.out.println("aasd");
         String nombre ="jqweuasdasd";
         System.out.println("aaaaaaaaaaaa");
+        System.out.println(nombre);
     }
     
 }
